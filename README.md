@@ -8,7 +8,78 @@ I enjoy developing projects across machine learning, full-stack development, dat
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js" />
+</p>
+
+**Also:** SQL
+
+---
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,django,vite" />
+</p>
+
+---
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+---
+
+### 🤖 AI / ML
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
+</p>
+
+**Core Areas:**
+
+- Machine Learning
+- Anomaly Detection
+- Classification
+- Clustering
+- Data Preprocessing
+- Feature Engineering
+- Predictive Analytics
+
+---
+
+### 📊 Data Analytics & Visualization
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+**Tools & Libraries:**
+
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Power BI
+- Tableau
+
+---
+
+### ☁️ DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+</p>
+
+---
+
+## 📌 Featured Projects
 
 ### 🔍 AI-Driven Tax Evasion Detection Using Pattern Analysis
 
@@ -34,7 +105,7 @@ I enjoy developing projects across machine learning, full-stack development, dat
 - PDF compression, merging, splitting, conversion, and protection
 - OCR-based document processing
 - AI-powered document interaction and summarization
-- File upload and processing
+- File upload and document processing
 - REST API integration
 - WebSocket-based real-time communication
 - Modern responsive web interface
@@ -77,56 +148,6 @@ I enjoy developing projects across machine learning, full-stack development, dat
 
 ---
 
-## 🛠️ Technical Skills
-
-### 💻 Programming Languages
-
-- Python
-- Java
-- SQL
-- C++
-- C
-
-
-### 🤖 AI & Machine Learning
-
-- Machine Learning
-- Anomaly Detection
-- Classification
-- Clustering
-- Data Preprocessing
-- Feature Engineering
-- Scikit-learn
-- Pandas
-- NumPy
-
-### 🌐 Web Development
-
-- HTML
-- CSS
-
-### 🗄️ Databases
-
-- MySQL
-- MongoDB
-
-### 📊 Data & Visualization
-
-- Power BI
-- Tableau
-- Matplotlib
-- Seaborn
-
-### 🔧 Tools & Technologies
-
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-- Vite
-
----
-
 ## 🎯 Areas of Interest
 
 - 🤖 Artificial Intelligence
@@ -134,7 +155,7 @@ I enjoy developing projects across machine learning, full-stack development, dat
 - 📊 Data Analytics
 - 🗄️ Database Management
 - 🔎 Data Science
-
+- 💻 Software Development
 
 ---
 
@@ -146,6 +167,7 @@ I enjoy developing projects across machine learning, full-stack development, dat
 - Data Analytics
 - Generative AI
 - AI-powered applications
+- Full-Stack Development
 
 ---
 
@@ -156,14 +178,23 @@ I enjoy developing projects across machine learning, full-stack development, dat
 - Writing clean and maintainable code
 - Improving problem-solving and analytical skills
 - Exploring modern AI and software development technologies
+- Developing data-driven solutions
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 **LinkedIn:** [Sai Navadheer Reddy](https://www.linkedin.com/in/navadheer-reddy-ramireddy-685241382/)
-- 🐙 **GitHub:** [navadheer28](https://github.com/navadheer28)
-- 📧 **Email:** [navadheerrreddyramireddy@gmail.com](mailto:navadheerrreddyramireddy@gmail.com)
+<p>
+  <a href="https://github.com/navadheer28">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/navadheer-reddy-ramireddy-685241382/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:navadheerrreddyramireddy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -171,4 +202,5 @@ I enjoy developing projects across machine learning, full-stack development, dat
 
 Thanks for visiting my GitHub profile!
 
-Feel free to explore my repositories and projects.
+Feel free to explore my repositories and projects.  
+I'm always interested in learning, building, and solving real-world problems with technology.
