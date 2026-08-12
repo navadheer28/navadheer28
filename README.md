@@ -1,123 +1,174 @@
-# Hi, I'm Sai Navadheer Reddy 👋
+# 👋 Hi, I'm Sai Navadheer Reddy
 
 ### Computer Science Engineering Student | Python | SQL | AI/ML | Data Analytics
 
-I'm a Computer Science Engineering student passionate about building practical software solutions and exploring **Artificial Intelligence, Machine Learning, Data Analytics, and Backend Development**.
+I am a Computer Science Engineering student interested in building practical software solutions and applying Artificial Intelligence, Machine Learning, and Data Analytics to real-world problems.
 
-* 🎓 Computer Science Engineering student
-* 💻 Interested in **Python, SQL, AI/ML, and Software Development**
-* 🤖 Exploring **Machine Learning, Generative AI, and Computer Vision**
-* 📊 Interested in **Data Analytics and solving real-world problems with data**
-* 🚀 Continuously improving my programming and problem-solving skills
-
----
-
-## 🛠️ Technical Skills
-
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat\&logo=c\&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat\&logo=c%2B%2B\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
-
-### Data & AI/ML
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat\&logo=scikit-learn\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat\&logo=opencv\&logoColor=white)
-
-### Web Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat\&logo=django\&logoColor=white)
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
+I enjoy developing projects across machine learning, full-stack development, database systems, and intelligent applications while continuously improving my programming and problem-solving skills.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 AI-driven Tax Evasion Detection
+### 🔍 AI-Driven Tax Evasion Detection Using Pattern Analysis
 
-An AI/ML-based project focused on identifying suspicious financial patterns using machine learning techniques.
+**Tech:** Python, Pandas, NumPy, Scikit-learn, Machine Learning
 
-**Technologies:** Python, Machine Learning, Scikit-learn, Data Analysis
+- Machine learning-based system for identifying potentially suspicious financial patterns
+- Anomaly detection using Isolation Forest
+- Classification and risk prediction using Random Forest
+- Clustering for identifying similar financial behavior
+- Data preprocessing and feature engineering
+- Exploratory data analysis and visualization
+- Pattern-based financial risk analysis
 
-**Key Areas:**
+🔗 **Repository:** [AI Tax Evasion Detection](https://github.com/navadheer28/ai-tax-evasion-detection)
 
-* Pattern analysis
-* Anomaly detection
-* Machine learning-based classification
-* Financial data analysis
+---
+
+### 📄 Paperly — AI-Powered PDF Toolkit
+
+**Tech:** React, Vite, JavaScript, Tailwind CSS, Node.js, Express.js, Python, Claude AI
+
+- Full-stack web application for working with PDF documents
+- PDF compression, merging, splitting, conversion, and protection
+- OCR-based document processing
+- AI-powered document interaction and summarization
+- File upload and processing
+- REST API integration
+- WebSocket-based real-time communication
+- Modern responsive web interface
+
+🔗 **Repository:** [Paperly](https://github.com/navadheer28/paperly)
+
+🌐 **Live Demo:** [paperly-iota.vercel.app](https://paperly-iota.vercel.app/)
 
 ---
 
 ### 🩸 Blood Bank Management System
 
-A web-based application designed to manage blood donors, blood stock, and blood requests.
+**Tech:** Python, Django, MySQL, HTML, CSS, JavaScript
 
-**Technologies:** Python, Django, MySQL, HTML, CSS, JavaScript
+- Web-based blood bank management platform
+- Role-based authentication for Admin and Users
+- Donor registration and management
+- Blood stock management
+- Blood request and approval workflow
+- Admin dashboard for managing donors and blood inventory
+- MySQL database integration
 
-**Key Features:**
-
-* User and administrator authentication
-* Donor registration
-* Blood stock management
-* Blood request management
-* Admin dashboard
-
----
-
-### 😷 Face Mask Detection
-
-A computer vision project for detecting whether a person is wearing a face mask.
-
-**Technologies:** Python, OpenCV, TensorFlow, Keras
-
-**Key Features:**
-
-* Real-time face detection
-* Image/video processing
-* Deep learning-based prediction
-* Webcam inference
+🔗 **Repository:** Add repository link
 
 ---
 
-## 🏆 Certifications & Learning
+### 🗳️ Online Voting System
 
-* SAP Generative AI
-* Computer Vision with Python
+**Tech:** Java, JDBC, MySQL
 
----
+- Database-driven online voting application
+- Voter registration and authentication
+- Candidate management
+- Vote recording and management
+- Automated result processing
+- MySQL database integration
+- JDBC-based database connectivity
 
-## 📈 What I'm Currently Learning
-
-* 🤖 Artificial Intelligence & Machine Learning
-* 📊 Data Analytics
-* 🐍 Advanced Python
-* 🗄️ SQL & Database Management
----
-
-🤝 Connect With Me
-
-  LinkedIn: https://www.linkedin.com/in/navadheer-reddy-ramireddy-685241382/
-
-  Email: navadheerreddyramireddy@gmail.com
+🔗 **Repository:** Add repository link
 
 ---
 
-⭐ Feel free to explore my repositories and projects.
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+
+- Python
+- Java
+- SQL
+- C++
+- C
+
+
+### 🤖 AI & Machine Learning
+
+- Machine Learning
+- Anomaly Detection
+- Classification
+- Clustering
+- Data Preprocessing
+- Feature Engineering
+- Scikit-learn
+- Pandas
+- NumPy
+
+### 🌐 Web Development
+
+- HTML
+- CSS
+
+### 🗄️ Databases
+
+- MySQL
+- MongoDB
+
+### 📊 Data & Visualization
+
+- Power BI
+- Tableau
+- Matplotlib
+- Seaborn
+
+### 🔧 Tools & Technologies
+
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+- Vite
+
+---
+
+## 🎯 Areas of Interest
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 📊 Data Analytics
+- 🗄️ Database Management
+- 🔎 Data Science
+
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Python
+- Machine Learning
+- SQL & Database Systems
+- Data Analytics
+- Generative AI
+- AI-powered applications
+
+---
+
+## 📈 What I Focus On
+
+- Building practical and scalable applications
+- Solving real-world problems using technology
+- Writing clean and maintainable code
+- Improving problem-solving and analytical skills
+- Exploring modern AI and software development technologies
+
+---
+
+## 📫 Connect With Me
+
+- 💼 **LinkedIn:** [Sai Navadheer Reddy](https://www.linkedin.com/in/navadheer-reddy-ramireddy-685241382/)
+- 🐙 **GitHub:** [navadheer28](https://github.com/navadheer28)
+- 📧 **Email:** [navadheerrreddyramireddy@gmail.com](mailto:navadheerrreddyramireddy@gmail.com)
+
+---
+
+## ⭐ Thank You for Visiting
+
+Thanks for visiting my GitHub profile!
+
+Feel free to explore my repositories and projects.
