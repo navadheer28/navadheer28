@@ -113,7 +113,8 @@ A computer vision project for detecting whether a person is wearing a face mask.
 ---
 
 🤝 Connect With Me
-  LinkedIn: Navadheer Reddy Ramireddy
+
+  LinkedIn: https://www.linkedin.com/in/navadheer-reddy-ramireddy-685241382/
 
   Email: navadheerreddyramireddy@gmail.com
 
