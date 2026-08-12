@@ -167,7 +167,7 @@ I enjoy developing projects across machine learning, full-stack development, dat
 - Data Analytics
 - Generative AI
 - AI-powered applications
-- Full-Stack Development
+
 
 ---
 
